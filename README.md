@@ -1,5 +1,1 @@
-👋 Hi, I’m @pradiprupareliya
-🖥️ I am Full | MEAN | LAMP Stack developer
-🌱 I’m currently learning Node.js deeply...
-💞️ I love to learn new technologies and concepts ...
-📫 Reach me on 🌐 http://pradiprupareliyawebdeveloper.com Skype: pradip_rupareliya 📧 pradiprupareliya@gmail.com
+👋 Hi, I’m @simrankaur
